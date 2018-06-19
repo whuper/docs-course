@@ -11,11 +11,14 @@
 <body>
   <div id="app"> Please wait... </div>
   <script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+
     window.$docsify = {
       name: '第一个doc',
-      repo: '',
-      loadSidebar: true,
-      subMaxLevel: 2
+      loadSidebar: false,
+      subMaxLevel: 3
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>

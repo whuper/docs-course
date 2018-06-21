@@ -95,6 +95,7 @@ afterInitComponent() 加载模块html完毕执行的函数
 
 initController() 动态加载控制器,将依赖注入
 
+```javascript
 	initController:function(func){
 		var app = angular.module('app');
 		var ctrlId = app.createCtrlId();
@@ -113,8 +114,8 @@ initController() 动态加载控制器,将依赖注入
 		    $compile(el)(scope);
 		    scope.$apply();
 		});
-	},
-
+	}
+```
 
 ---
 

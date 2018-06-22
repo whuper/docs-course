@@ -1,25 +1,3 @@
-## window.js
-
-文件路径 /ssdev.angular.widget.css.window
-
-该文件是主窗口和其他新打开的窗口都会继承的文件,可以理解为一个自定义的`窗口`,包括顶部的标题和工具栏,边框,弹框,loading框,进度条等一些共用的方法
-
-
-
-### 方法
-
-- close 关闭窗口
-- hide	隐藏窗口
-- show	显示窗口
-- resizeTo	改变窗口大小
-- showMask	显示loading框,传false代表隐藏loading框
-- showModal	显示提示信息弹狂,可传入,标题,提示内容,按钮,并绑定相应的事件
-- showTip	在窗口中央显示一个提示框,默认3秒钟自动隐藏
-- showErrorMsg	在窗口顶部显示一个提示信息,不会自动隐藏
-- bindData		改变窗口的标题,图标等信息
-
-以上方法都可以在个模块的js代码中通过` $windows.**` 调用到
-
 ## WindowStub.js
 
 文件路径 ssdev.angular.widget.window.WindowStub.js
@@ -79,6 +57,35 @@
 
 
 
+## boot-nw.js
+
+主框架文件,封装了常用的对数组,对象,cookie,继承,异步加载文件和创建新模块等操作的方法
+
+
+## window.js
+
+文件路径 /ssdev.angular.widget.css.window
+
+该文件是主窗口和其他新打开的窗口都会继承的文件,可以理解为一个自定义的`窗口`,包括顶部的标题和工具栏,边框,弹框,loading框,进度条等一些共用的方法
+
+
+
+### 方法
+
+- close 关闭窗口
+- hide	隐藏窗口
+- show	显示窗口
+- resizeTo	改变窗口大小
+- showMask	显示loading框,传false代表隐藏loading框
+- showModal	显示提示信息弹狂,可传入,标题,提示内容,按钮,并绑定相应的事件
+- showTip	在窗口中央显示一个提示框,默认3秒钟自动隐藏
+- showErrorMsg	在窗口顶部显示一个提示信息,不会自动隐藏
+- bindData		改变窗口的标题,图标等信息
+
+以上方法都可以在个模块的js代码中通过` $windows.**` 调用到
+
+
+
 ## angularInit
 
 文件路径 `/ssdev/angular`
@@ -112,4 +119,26 @@
 
 文件路径 `/ssdev.angular`
 
-继承自`bootstrap/Container.js`文件,根据访问的页面动态加载controller
+继承自`bootstrap/Container.js`,根据访问的页面动态加载controller
+
+
+## Observable.js
+
+文件路径 `/ssdev.utils`
+
+该文件使用设计模式中的观察者模式,实现自定义事件
+
+在其他文件中通过`混入(mixins)`的方式,在实例模块上使用`on(绑定),un(解绑),fireEvent(触发)`等方法了
+
+## RTMClient.js
+
+对websocket 常用操作的封装
+
+## RTCSession.js
+
+对webrtc常用操作的封装
+
+## ServiceSupport.js
+
+封装了请求服务接口,以便在模块中使用`me.servive.***`的方式请求
+

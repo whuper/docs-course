@@ -7,7 +7,7 @@
 
 请咨询后台开发人员
 
-## 在网页中调用pc
+## 在网页中启动pc
 
 #### 实现原理
 
@@ -122,3 +122,8 @@ windows注册表协议(`innosetup`打包工具,安装时候写入的`Ngarihealth
 ## demo下载
 
 [weblogin](/resourse/weblogin.zip "weblogin.zip")
+
+
+## 流程图
+
+![weblogin.pbg](./images/weblogin.png "")

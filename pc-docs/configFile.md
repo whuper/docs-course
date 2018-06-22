@@ -16,6 +16,11 @@
 - https://ssltest.ngarihealth.com/ehealth-base-prerelease/		预发布环境
 - http://ehealth.easygroup.net.cn/ehealth-base/	 				正式
 
+#### setVideoServerContextUrl()设置视频服务调用地址
+	
+	$env.setVideoServerContextUrl("ws://121.43.175.121:9290");
+
+
 ## config.json
 
 	{

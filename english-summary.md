@@ -30,7 +30,62 @@
 
  名词短语：限定词+（形容词）+名词，每个部分都可以省略
  
+**在语源学上,`the`可视为 that 或 those 的弱化形式.** , a 是 one 的弱化
+
+>**that或those** 是指示形容词,有**明确的**指示功能
+ 
+专有名词的定义是: 只有一个对象存在的名词,前面不加**限定词**(冠词或者定冠词)
+
+如果加了定冠词 **the**,就表示这个东西又两个以上,也就不是专有名词了.
+
+#### 复合名词
+1. 动名词的一些变化
+
+> 例1：Picking strawberries can be fun.  
+> S V C （采草莓很好玩。）  
+> 例2：The picking of strawberries requires patience.  
+> S V O （采草莓要有耐心。）  
+> 例3：Strawberry-picking is a strenuous job.  
+> S V C （采草莓是很费力的工作。） 
+
+**第一句中**，picking strawberries 可以看出有动词 pick 和宾语 strawberries 。主语被省略了，看不出来是谁，只是笼统的 anybody 。所以，这句可以还原为：
+
+> That anybody picks strawberries can be fun.  
+> S V C
+
+**主语部分本来是名词从句，现在简化为动名词短语** picking strawberries ，其中 strawberries 是 pick 的宾语。
+
+**第二个例句中**，picking 前面加上了定冠词 the ，这样是把 the picking 当做一个名词短语来使用。所以 picking 后面不能再有宾语，而要改成介系词短语 of strawberries 做为修饰语，形容 the picking。
+
+**在第三句中**，主语 strawberry-picking 是个复合字。  
+把 strawberries 拿到动名词 picking 的前面，也就是把它放在形容词位置使用，这也是为什么要改成单数的原因：英语形容词是没有复数的。中间再加上 hyphen(连字符) ，就串连成复合名词 strawberry-picking 。  
+这个构造和 mountain-climbing 是相同的。
+
+
+* Chinese Map 属于中国的地图（不一定是中国地图)
+* Map of China 中国地图
+
+---
+
+* Chinese bank 意思为中国的银行（只说明这东西属于中国,来自中国）
+* Bank of China 中国银行
+
+---
+
+* My photo 属于我的照片
+* photo of me 我的照片
+
+---
+
+
+shoe store 和 store of shoe ??
+
+Book Shop  
+Pencil Box  
+Key Chain  
+
 ## 动词时态
+## 不及物动词没有被动语态
 
 ## 不定式短语
 

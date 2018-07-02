@@ -3,11 +3,12 @@
 ## A. noun 
 
 1. 使用
-1. 用途 yòngtú (way of utilizing)用法 
+1. 用途 (way of utilizing)用法 
 1. 使用权 
 1. 功能 
-1. 有用 yǒuyòng (value)价值 jiàzhí (advantage)益处 
+1. 有用 (value)价值  (advantage)益处 
 
+> the use of force
 
 ## B. transitive verb
 
@@ -112,3 +113,86 @@ used syringes 用过的注射器
 > used material 使用材料  
 > become used to 习惯于…；适应于…  
 > used sand 旧砂  
+
+# 关键字
+
+* verb 动词
+* noun 名词
+* adjective 形容词
+* 
+* adverb 副词
+* transitive 及物的
+* intransitive 不及物
+* linking verb 连系动词
+* modal verb 情态动词
+* auxiliary verb 助动词
+* preposition 介词
+* prepositional phrase 介词短语
+* 
+* attribute 定语
+* conjunction 连词
+* pronoun 代词
+* reflexive pronoun 反身代词
+* personal pronoun 人称代词
+* demonstrative pronoun 指示代词
+
+
+
+* infinitive 动词不定式,原形动词,原形的
+
+* present participle 现在分词
+* past participle 过去分词
+
+#### tense 时态
+
+* past tense 过去
+* future tense 将来
+* continuous tense 进行
+
+---
+
+* infinitive particle  不定助词 (比如to)
+* article 冠词
+* definite/indefinite article 定/不定冠词
+* exclamation 感叹词
+* interrogative pronoun 疑问代词
+* interrogative adverb 疑问副词
+* word group 词组
+* noun phrase  名词短语 ; 名词词组;
+* verbal phrase 动词短语
+* irregular verb 不规则动词
+
+
+* compound sentence, complex sentence 复合句
+* subordinate clause 从句
+* predicative/objective/attributive clause 表语/宾语/定语从句
+
+* subject 主语
+* predicate 谓语
+* object 宾语 
+* predicative 表语
+* complement 补语
+
+#### 语态
+
+1. active voice 主动语态
+1. passive voice 被动语态
+
+## 表语和补语
+
+
+#### 表语是紧跟系动词后的结构
+我们称及物动词之后的结构为宾语，而称系动词之后的结构为表语。
+
+> He looks good. （他看起来不错。）
+
+上句中的look为系动词，所以形容词good为表语。
+
+#### 补语是对宾语的补充说明
+
+> I found the homework difficult. 
+> （我发现数学作业很难。）
+> 
+> She heard Jean singing. 
+> （我听到Jean在唱歌。）
+

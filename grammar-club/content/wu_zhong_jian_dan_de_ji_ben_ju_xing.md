@@ -20,9 +20,9 @@
 
 先回到出发点来说。一个完整的句子，必须能够表达完整的意思。这需要以两个部分来完成：**主语**和**动词**。<b>**主语**，是这个句子<u>所叙述的对象</u>。**动词**，构成<u>叙述的主要内容</u>。</b>  
 例如：
-1. {% em type="green" %}<em>John Smith</em>{% endem %} <em><u>{% em type="red" %}died{% endem %}</u></em> in World War Two.
+1.  <em>John Smith</em>  <em><u>{% em type="red" %}died </u></em> in World War Two.
  （约翰·史密斯死于第二次世界大战。）  
-2. {% em type="green" %}<em>John Simth</em>{% endem %} <em><u>{% em type="red" %}killed{% endem %}</u></em> three enemy soldiers.
+2.  <em>John Simth</em>  <em><u>{% em type="red" %}killed </u></em> three enemy soldiers.
 （约翰·史密斯杀了三名敌军士兵。）
 
 在例1中，主语 John Smith 是这个句子所叙述的对象。讲白一点就是：这个句子要告诉你的是有关 John Smith 的事情。是什么事情呢？主要是：他“死了”（died)。动词 died 构成叙述的主要内容。至于说他死在第一次大战还是第二次大战，则是可有可无的细节，以介词短语 in World War Two 来表示，依附在动词上做修饰语使用。换句话说，例1如果只说 John Smith died ，也可以构成意思完整、正确的句子。<b>像 **die** 这种动作，可以独立发生，不牵涉到别的人或物，**这种动词就叫“不及物”动词**。</b>  
@@ -35,9 +35,9 @@
 反之，<b>如果句子缺了补语，就会变得完全没有意义，因为叙述的部分完全缺乏。</b>请注意：**在所有的英语动词中，只有解释为“是”的动词是空的，完全没有意义。**一般的动词，不论及物或不及物，都要担任叙述全句最主要内容的工作。**只有解释为“是”的动词，没有叙述能力，只能扮演引导叙述部分的角色。**  
 
 例如：  
-3 . {% em type="green" %}<em>John Smith</em>{% endem %} <em>{% em type="red" %}<u>was</u>{% endem %}</em> a soldier.
+3 .  <em>John Smith</em>  <em>{% em type="red" %}<u>was</u> </em> a soldier.
 （约翰·史密斯是军人。）  
-4 . {% em type="green" %}<em>John Smith</em>{% endem %} <em>{% em type="red" %}<u>was</u>{% endem %}</em> courageous.
+4 .  <em>John Smith</em>  <em>{% em type="red" %}<u>was</u> </em> courageous.
 （约翰·史密斯很勇敢。）
 
 在例3中主语 John Smith 不变，可是动词 was 就和前面的例子都不一样。这个动词并没有告诉我们有关 John Smith 这个人的任何事情。叙述主要内容的工作落在后面的 a soldier 之上。动词 was 只是把 John Smith 和 a soldier 之间画上等号、串联起来而已。

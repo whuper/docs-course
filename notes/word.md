@@ -104,6 +104,7 @@ used syringes 用过的注射器
 > be used by 被…使用  
 > be used with 与…一起使用  
 > used up 用完了的；筋疲力尽；被杀死的  
+> 
 > used to do 过去常常，过去曾经；过去常常做某事  
 > used to do something 过去经常做  
 > got used to 习惯于  
@@ -123,7 +124,7 @@ used syringes 用过的注射器
 * adverb 副词
 * transitive 及物的
 * intransitive 不及物
-* linking verb 连系动词
+* linking verb/copular verb 连系动词,系动词
 * modal verb 情态动词
 * auxiliary verb 助动词
 * preposition 介词
@@ -178,6 +179,10 @@ used syringes 用过的注射器
 1. active voice 主动语态
 1. passive voice 被动语态
 
+
+---
+
+
 ## 表语和补语
 
 
@@ -196,3 +201,46 @@ used syringes 用过的注射器
 > She heard Jean singing. 
 > （我听到Jean在唱歌。）
 
+## 英语中助动词有哪些
+
+* am,is,are ,was ,were,（帮助变进行时态,帮助变被动语态）  
+* do ,does,did （帮助句子变疑问句,否定句,强调谓语动词作用） 
+* has ,have （帮助句子变现在完成时态作用）  
+* had ,（帮助句子变过去完成时态,以及虚拟语气倒装）  
+* will ,shall （帮助句子变一般将来时态）  
+* would ,should （帮助句子变过去将来时态）  
+* be going to（帮助句子变一般将来时态） 
+
+## 情态动词和助动词的区别
+
+助动词与情态动词最主要的区别之一是: 助动词本身没有词义，而情态动词则有自己的词义，能表示说话人对有关动作或状态的看法，或表示主观设想。  
+情态动词是一种本身有一定的词义, 但要与普通动词一起使用，给谓语动词增添情态色彩，表示说话人对有关行为或事物的态度和看法，认为其可能、应该或必要等。  
+
+**助动词主要有两类：基本助动词和情态助动词。**
+
+基本助动词有三个：do, have和be   
+情态助动词有十三个：may, might; can, could; will, would; shall, should; must, need, dare, used to, ought to.  
+上述两类助动词的共同特征是，在协助主动词构成限定动词词组时，具有作用词的功能。
+
+
+### being用作现在分词用法。
+
+The trees are being planted,
+
+The house being built will be our new laboratory.
+
+translated can also  be  read aloud by GT（google  translateor） voice engine。
+
+There are a large number of different shapes of files, each being made for some particular kind of work.
+
+here are a large number of different shapes of files, each being made for some particular kind of work.
+
+The pressure of a gas varies inversely as its volume, with temperature being constant.
+
+### being用作动名词时
+
+
+1. Water has the property of dissolving sugar, sugar (has)the property of being dissolved by water.（介词宾语）水具有溶解糖的特性，糖则具有被水溶解的特性。
+2. The object is at rest and resists being moved quickly.（动词宾语）物体静止时，它就阻止对它的迅速移动。
+3. This compound is readily decomposed by being heated.（介词宾语）这种化合物（通过）受热就易分解。
+4. On being heated, the two substances form a new compound.（介词宾语）这两种物质一遇热就生成新的化合物。

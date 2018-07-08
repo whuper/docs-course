@@ -2,8 +2,8 @@
 
 <b>如果**关系从句中的动词是be+Ving的形状（进行式)**，只要**省略主语**与** be 动词**即可。</b>  
 例如：
-- {% em type="red" %}<u>The ship</u>{% endem %} {% em type="green" %}<u>which is coming to shore</u>{% endem %} is from Gaoxiong.  
-{% em type="red" %}先行词{% endem %} {% em type="green" %}关系从句{% endem %}  
+- {% em type="red" %}<u>The ship</u>   <u>which is coming to shore</u>  is from Gaoxiong.  
+{% em type="red" %}先行词   关系从句   
 (正在靠岸的那条船是从高雄来的。）  
 
 关系从句中的主语 which 就是 the ship，又有 be 动词，只要省去这两个部分，就成为：  

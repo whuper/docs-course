@@ -44,17 +44,17 @@ The construction work was delayed because it had been raining.
 The construction work was delayed because of rain.  
 介词短语  
 
-状语从句中的虚主语 it ，以及动词 had been 都可以省略，有意义的只有 rain 一词要留下来。再看这个例子：  
+副词从句中的虚主语 it ，以及动词 had been 都可以省略，有意义的只有 rain 一词要留下来。再看这个例子：  
 >  
 Althought he opposed it,the plan was carried out.  
-状语从句 （虽然他反对，这个计划还是施行了。）  
+副词从句 （虽然他反对，这个计划还是施行了。）  
 
 例句中连接词 although 和介词 despite 或 in spite of 意思接近， 可以改为：  
 >  
 Despite his opposition,the plan was carried out.  
 介词短语  
 
-状语从句中的宾语 it ，其内容与主要从句重复，是多余的字眼。Although 改为介词 Despite 后，只能接一个宾语，里面要放下 he opposed 这个部分的概念，于是将词类变化为 his opposition 。再看下例：  
+副词从句中的宾语 it ，其内容与主要从句重复，是多余的字眼。Although 改为介词 Despite 后，只能接一个宾语，里面要放下 he opposed 这个部分的概念，于是将词类变化为 his opposition 。再看下例：  
 >  
 If there should be a fire, the sprinkler will be started.  
 副词从句 （万一失火，洒水器会开动。）  
@@ -64,13 +64,13 @@ If there should be a fire, the sprinkler will be started.
 In case of a fire, the sprinkler will be started.  
 介词短语  
 
-状语从句改写为介词短语，是大幅度的简化。许多连接词都找得到近似的介词。然而，改过之后，只剩下一个名词的空间来装下整个从句的内容，所以要大量精简。装不下时就不要这样简化，或者另辟蹊径。例如：  
+副词从句改写为介词短语，是大幅度的简化。许多连接词都找得到近似的介词。然而，改过之后，只剩下一个名词的空间来装下整个从句的内容，所以要大量精简。装不下时就不要这样简化，或者另辟蹊径。例如：  
 >  
 Because the exam is only a week away, I have no time to waste.  
-（状语从句） S V C   
+（副词从句） S V C   
 （因为离考试只剩一个星期了，我不能再浪费时间。）  
 
-这个状语从句的主语 the exam 和主要从句主语 I 不同，不易简化，需改成介词短语：  
+这个副词从句的主语 the exam 和主要从句主语 I 不同，不易简化，需改成介词短语：  
 >  
 With the exam only a week away,I have no time to waste.  
 介词 O C  

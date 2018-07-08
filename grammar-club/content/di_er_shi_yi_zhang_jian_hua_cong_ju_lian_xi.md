@@ -5,7 +5,7 @@
 <b>首先回顾一下简化从句的两大原则：</b>  
 一、<b>**对等从句**中，相对应位置（主语与主语，动词与动词等）如果重复，择一弹性省略。</b>   
 
-二、<b>**从属从句（名词从句、形容词从句与状语从句）**中，省略主语与be动词两部分，留下补语。不过主语若非重复或空洞的元素，就应设法保留，以免句意改变。</b>  
+二、<b>**从属从句（名词从句、形容词从句与副词从句）**中，省略主语与be动词两部分，留下补语。不过主语若非重复或空洞的元素，就应设法保留，以免句意改变。</b>  
 
 
 这两项原则的共同目的都是为了**增强句子的精简性**：   
@@ -55,17 +55,17 @@ puzzled the medical team.
 2. The resort town has resumed its air of tranquillity.  
 （这个度假小镇又恢复了平静。）  
 
-这两句话之间没有重复的元素，但有逻辑关系存在：在观光客走了之后，或是因为观光客都走了，小镇才得以恢复平静。这时可以用状语从句的方式，选择恰当的连接词（after、because、now that 等）附在句1前面，再把句1与句2并列即可：  
+这两句话之间没有重复的元素，但有逻辑关系存在：在观光客走了之后，或是因为观光客都走了，小镇才得以恢复平静。这时可以用副词从句的方式，选择恰当的连接词（after、because、now that 等）附在句1前面，再把句1与句2并列即可：  
 >  
 <em>Now that the summer tourists are all gone</em>, the resort town has resumed
 its air of tranquillity.  
 
-Now that 引导的状语从句若要进一步简化，关键在主语、动词两个部分。主语 the summer tourists 与主要从句并无重复，必须保留下来以免损害句意。动词部分有 be 动词(are)，后面还有补语 (gone)。这时若去掉 be 动词，留下主语与补语，就破坏了这个状语从句的结构，可以省略连接词 now that ，成为：
+Now that 引导的副词从句若要进一步简化，关键在主语、动词两个部分。主语 the summer tourists 与主要从句并无重复，必须保留下来以免损害句意。动词部分有 be 动词(are)，后面还有补语 (gone)。这时若去掉 be 动词，留下主语与补语，就破坏了这个副词从句的结构，可以省略连接词 now that ，成为：
 >  
 <em>(With) the summer tourists all gone</em>, the resort town has resumed its
 air of tranquillity.  
 
-如果最前面没有加上 with ，而是以 the summer tourists all gone 直接代表一个简化的状语从句，这种讲法比较文诌诌，不够口语化。
+如果最前面没有加上 with ，而是以 the summer tourists all gone 直接代表一个简化的副词从句，这种讲法比较文诌诌，不够口语化。
 较口语化的做法是，用介词 with 来取代连接词 now that 的意义，而把 the tourists 放在 with 后面作它的宾语， all gone 仍然作补语，即成为上句中多一个 with 在前面的句型。
 
 #### 例三
@@ -86,11 +86,11 @@ air of tranquillity.
 >  
 Confucius, <em>living</em> in the Eastern Zhou Dynasty, must have written on pieces of bamboo.  
 
-东周时代的孔子为什么要用竹简写字？是因为句3:纸到东汉时期才有。句3的内容表示原因，所以用状语从句的方式——外加连接词 because 成为状语从句，与主要从句并列，即得到：  
+东周时代的孔子为什么要用竹简写字？是因为句3:纸到东汉时期才有。句3的内容表示原因，所以用副词从句的方式——外加连接词 because 成为副词从句，与主要从句并列，即得到：  
 >  
 （+3）Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of bamboo, <em>because paper was not available</em> until the Eastern Han Dynasty.  
 
-句中的状语从句（because 之后的部分）如要进一步简化，又要观察主语与动词部分。主语 paper 没有重复，必须留下来。动词虽然是 be 动词，可是状语从句的简化中，一旦留下主语，就得有个分词配合（传统语法称为分词构句)，所以使用 be 动词来制造分词 being ，并省略连接词 because ，即成为简化的状语从句：  
+句中的副词从句（because 之后的部分）如要进一步简化，又要观察主语与动词部分。主语 paper 没有重复，必须留下来。动词虽然是 be 动词，可是副词从句的简化中，一旦留下主语，就得有个分词配合（传统语法称为分词构句)，所以使用 be 动词来制造分词 being ，并省略连接词 because ，即成为简化的副词从句：  
 >  
 Confucius, living in the Eastern Zhou Dynasty, must have written on pieces of bamboo, <em>paper not being available</em>. until the Eastern Han Dynasty.  
 
@@ -129,11 +129,11 @@ England in 1485, <em>marking</em> the end of the Dark Ages there.
 3. Ben Kook deals with economic matters at these times.  
 (这时本·库克处理经济事务。）  
 
-句1和句2之间有因果关系：因为在艺术学院读过书，所以才有与众不同的表现。那么就在句1前面加上连接词 because 成为状语从句，与句2的主要从句并列，成为： 
+句1和句2之间有因果关系：因为在艺术学院读过书，所以才有与众不同的表现。那么就在句1前面加上连接词 because 成为副词从句，与句2的主要从句并列，成为： 
 >  
 (1+2) <em>Because he was educated</em> in an art college. Ben Kook acts unusual at times.  
 
-这个句子中，简化 because 引导的状语从句，可以直接省略he was，再把连接词 because 删去，只保留补语 educated 部分，成为：  
+这个句子中，简化 because 引导的副词从句，可以直接省略he was，再把连接词 because 删去，只保留补语 educated 部分，成为：  
 >  
 <em>Educated</em> in an art college, Ben Kook acts unusual at times.  
 
@@ -163,9 +163,9 @@ Educated in an art college, Ben Kook acts unusual <em>when dealing</em> with eco
 >  
 I'd like <em>you to meet</em> some people.  
 
-再把句3加上去。句3是表示时间，可以用连接词 before 把它改成状语从句：
+再把句3加上去。句3是表示时间，可以用连接词 before 把它改成副词从句：
 (+3) I'd like you to meet some people <em>before you (can) leave</em>.
-这个状语从句若进一步简化，得把before留下才能表达 “在……之前”的意思。但before这个连接词也可当介词用，一旦后面的从句简化了，它就成为介词，只能接名词形态。因此把重复的主语you省略后，原来的动词leave要改成动名词leaving的形态，成为：
+这个副词从句若进一步简化，得把before留下才能表达 “在……之前”的意思。但before这个连接词也可当介词用，一旦后面的从句简化了，它就成为介词，只能接名词形态。因此把重复的主语you省略后，原来的动词leave要改成动名词leaving的形态，成为：
 I'd like you to meet some people <em>before leaving</em>.
 
 #### 例七
@@ -186,11 +186,11 @@ I'd like you to meet some people <em>before leaving</em>.
 >  
 (1+2) I have not practiced <em>as much as I should</em>. (have practiced).  
 
-因为“练习不够”，才会造成句3 “我很担心”的结果。表示这种因果关系，可以使用 because 的状语从句来连接：  
+因为“练习不够”，才会造成句3 “我很担心”的结果。表示这种因果关系，可以使用 because 的副词从句来连接：  
 >  
 （+3）<em>Because I have not practiced</em> as much as I should, I am worried about something.  
 
-Because 引导的状语从句，简化时可把重复的主语 I 省略。动词部分 have not practiced 因为没有 be 动词，也没有语气助动词，就只能加上 -ing ，成为 not having practiced ，再把连接词 Because 删去，成为：  
+Because 引导的副词从句，简化时可把重复的主语 I 省略。动词部分 have not practiced 因为没有 be 动词，也没有语气助动词，就只能加上 -ing ，成为 not having practiced ，再把连接词 Because 删去，成为：  
 >  
 <em>Not having practiced</em> as much as I should, I am worried aboutsomething.  
 
@@ -261,11 +261,11 @@ A. Fries offered <em>to assume</em> responsibility.
 >  
 A. Fries, the leader of the College football team then and the director of a football club now,offered to assume responsibility.  
 
-“当时的学院足球队队长，现今一家足球俱乐部的主管弗赖斯，表示要负责。”为什么？因为句B: “他目睹学院足球队比赛失利。”现在把句B拿出来用，它和上句的关系是因果关系，所以加上连接词because，做成状语从句与上句并列：  
+“当时的学院足球队队长，现今一家足球俱乐部的主管弗赖斯，表示要负责。”为什么？因为句B: “他目睹学院足球队比赛失利。”现在把句B拿出来用，它和上句的关系是因果关系，所以加上连接词because，做成副词从句与上句并列：  
 >  
 （+B）<em>Because he saw</em> the College football team's loss in the important game, A. Fries, the leader of the College football team then and the director of a football club now, offered to assume responsibility.  
 
-句子越来越长了，现在来简化一下。上句中 because 引导的状语从句，主语 he 和主要从句的 A. Fries 重复，可以省略。动词 saw  因无 be 动词与助动词，可直接改成 seeing ，再把多余的 because 去掉，成为：  
+句子越来越长了，现在来简化一下。上句中 because 引导的副词从句，主语 he 和主要从句的 A. Fries 重复，可以省略。动词 saw  因无 be 动词与助动词，可直接改成 seeing ，再把多余的 because 去掉，成为：  
 >  
 <em>Seeing</em> the College football team's loss in the important game, A. Fries, the leader of the College football team then and the director of a football club now, offered to assume responsibility.  
 

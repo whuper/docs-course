@@ -244,3 +244,71 @@ The pressure of a gas varies inversely as its volume, with temperature being con
 2. The object is at rest and resists being moved quickly.（动词宾语）物体静止时，它就阻止对它的迅速移动。
 3. This compound is readily decomposed by being heated.（介词宾语）这种化合物（通过）受热就易分解。
 4. On being heated, the two substances form a new compound.（介词宾语）这两种物质一遇热就生成新的化合物。
+
+### 被动语态和过去分词
+
+被动语态强调动作，重点说明动作由谁完成、怎样完成；
+
+过去分词作表语通常用来描写情景，叙述人或事物的特征及所处的状态
+
+过去分词用作表语时，其动作意味很弱，在功能上更接近形容词，它不仅可用于系动词be之后，也可根据需要用于其他系动词之后。
+
+如：
+
+Be prepared! 大家准备好! 
+
+Please remain seated. 请不要站起来。
+
+He seemed embarrassed. 他似乎有点尴尬。
+
+Soon he grew used to it. 不久他变得对它习惯了。
+
+
+被动语态中的过去分词动作意味较强，它只能与助动词be（有时可能是get）构成被动结构，不宜用于其他动词之后。
+
+如：
+
+He was driven away in a police car. 他被用警车带走了。
+
+The guests were introduced to Jane. 客人们被介绍给了简。
+
+The food was cooked last night. 饭是昨天晚上做的。
+
+所以如果语义需要，其后可以接表示动作执行者的by短语。如：
+
+He was killed by a falling stone. 他被一块掉下来的石头砸死了。
+
+This tree was planted by my grandfather. 这棵树是我祖父种的。
+
+
+
+---
+
+
+### 不及物动词不能接宾语,所以没有被动语态,也不可能有过去分词形式???
+
+
+而且sing,speak and look 都是及物动词,当然有过去分词形式
+go 一般情况下都是以不及物动词的形式出现,gone是go 的完成形式,并不是被动形式,要区分开完成和被动这两个概念
+go 的及物动词有以下翻译,都是我们不常用到的
+1.以...打赌,(桥牌中)叫(牌),出(价)
+2.承担...责任
+3.忍受,买得起[常用于否定句],享受
+4.生产,产
+所以我认为不及物动词没有过去分词形式
+
+
+### 不及物动词的过去分词不表示被动,只表示完成
+
+
+
+### 完成式和过去分词
+
+
+### 不及物动词的过去分词不表示被动,只表示完成
+
+英语动词分五种形式
+
+动词原形，第三人称单数，过去式，过去分词，现在分词
+
+

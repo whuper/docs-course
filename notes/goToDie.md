@@ -9,8 +9,12 @@ Infinitives are verbals (grammar words formed from verbs) used as nouns or modif
 When infinitives are used with some verbs, the marker “to” is dropped. Infinitives with "to" dropped are called "bare infinitives".
 
 
-For example: Let us see (with “to” dropped”) a movie./He must do (with “to” dropped”) it for me./I saw him steal (with “to” dropped”) a banana.
-Now you should know what I am getting at. 
+### For example: 
+
+* Let us see (with “to” dropped”) a movie.
+* He must do (with “to” dropped”) it for me.
+* I saw him steal (with “to” dropped”) a banana.
+* Now you should know what I am getting at. 
 
 
 “Go” is one of those verbs which is followed by a bare infinitive. Therefore it is grammatically fine to say “Go die”, “Go figure”, “Go see a movie”, etc.
@@ -24,7 +28,7 @@ Similarly “come” can be followed by bare infinitive in appropriate situation
 
  
 
-To elaborate a little more:
+### To elaborate a little more:
 
 
 Go die = Go (to) die.
@@ -52,4 +56,12 @@ go fishing, go swimming...等中的-ing形式的属性在语法界颇有争议�
 
 这也是介词唯一的用法
 
-## 不及物动词是不后跟不定时的.
+### 介词后不能跟指示代词
+
+> 比如, turn it off 不能用 turn off it
+
+常用的指示代词 
+
+> that, those,these,this,it,one
+
+## 不及物动词后是不能跟不定式的.

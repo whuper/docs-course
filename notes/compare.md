@@ -142,3 +142,16 @@ will/would;shall/should/
 
 
 [图片来源](http://wangyuanxuesheroyinstitute.lofter.com/post/1d5d1ade_b4a65b4)
+
+### 连系动词和不及物动词
+
+英语动词主要分为实意动词notional verb,系动词link verb,助动词auxilairy verb,and 情态动词modal verb 四大类.
+
+其中实意动词又分为 及物动词（后接宾语）和不及物动词（后面不接宾语）.所以,系动词和不及物动词不是一回事.
+
+系动词也没有被动
+
+- smell
+- feel
+
+feel可以当系动词用吗? 可以.

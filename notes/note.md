@@ -22,3 +22,14 @@
 倍数词（multiplicative numeral) 和分数词（fractional numeral)
 
 4. 量词（quantifier) a lot of，lots of，plenty of，a great deal of，a good deal of，a large amountof，a small amount of，a quantity of，a great number of，a good number of 等。
+
+
+### 关于主语从句 
+
+	It is critical that ...
+	
+这是一种形容词性从句(定语从句)吗?
+
+答: 不是,是**同位语从句**的变形
+
+---

@@ -124,3 +124,5 @@ situations后面跟了一个定语从句来对其进行解释。
 	the night that she arrived
 	她到达的那晚
 	
+### He was knighted in 1967, the first music critic to be so honored.
+

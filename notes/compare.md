@@ -176,6 +176,19 @@ nothing作代码,名词,和副词
 
 代词[pronoun简称pron]是代替名词的一种词类
 
+## 限定词
+
+	1. 冠词（article） 定冠词（definite article），不定冠词（indefinite article），零冠词（zero article)
+	2. 形容词性的物主代词限定词（possessive pronoun determiner），my，your，his，her，our，their，its. john's，my friend's.
+	指示限定词（demonstrative determinative），this，that，these，those，such.
+	关系限定词（relative determinative)，whose，which.
+	疑问限定词（interrogative determinative），what，which，whose.
+	不定限定词（indefinite determinative），no，some，any，each，every，enough，either，neither，all，both，half，several，many，much，(a) few，(a) little，other，another.
+	3. 数词（numeral） 基数词（cardinal numeral) 和序数词（ordinal numeral)
+	倍数词（multiplicative numeral) 和分数词（fractional numeral)
+	4. 量词（quantifier) a lot of，lots of，plenty of，a great deal of，a good deal of，a large amountof，a small amount of，a quantity of，a great number of，a good number of 等。
+
+	
 
 ## travel,trip,tour,journey,voyage与outing的用法区别 
 
@@ -222,6 +235,68 @@ nothing作代码,名词,和副词
 形式一样,不要搞混
 
 > Is it true that the American intellectual is rejected and considered of no account in his society?
+
+###  Be+过去分词+ 介词”结构 
+
+
+* be devoted to   
+
+* be impressed with   
+* be accustomed to  
+* be equipped with  
+* be lost in 
+
+* be buried in 
+* be absorbed in 
+* be occupied with 
+* be engaged in 
+* be based on 
+* be involved in 
+* be exposed to 
+
+* be connected with 
+* be related to 
+* be made in be made of/ from 
+* be trapped in 
+* be stuck in 
+* be caught in 
+* be dressed in 
+* be seated at/in/on 
+* be set in 
+* be aimed at 
+* be attached to 
+* be surrounded with/by 
+* be covered with/by
+
+* be addicted to 
+* be filled with 
+* be crowed with 
+* be admitted to/into 
+* be made up of 
+* be known for 
+* be known as 
+* be tired of 
+* be intersted in 
+* be pleased with 
+* be surprised at 
+* be worried about 
+* be concerned about 
+* be disapointed with 
+* be satisfied with 
+* be fed up with 
+* be faced with 
+* be located/situated in 
+
+## 过去式,过去分词,被动语态,动词作形容词
+
+过去式是一个动词，单独作谓语。不与助动词、情态动词连用。它的词性与动词的第三人称单数一样。 
+
+过去分词表的意义是被动或完成。 
+
+而过去式和过去分词最主要的区别是：过去式是一个动词，而过去分词是一个动词的非谓语形式，相当于一个形容词
+
+被动语态 = be + 过去分词
+
 
 ## many much some 
 

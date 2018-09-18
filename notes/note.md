@@ -235,3 +235,16 @@ The price of cotton was reduced by 20 percent．棉花的价格下降了20％.
 
   in the early 1920's 在二十世纪二十年代早期   
   in the mid-1950's 在二十世纪五十年代中期 
+  
+  
+##  be + of的用法
+
+be+of+名词,代词
+
+be+of+抽象名词, 其功能,用法相当于形容词  
+如：  
+> They are of the same age/ colour/ size/ height/...
+> 
+> The meeting is of great importance.= The meeting is very important.
+
+  

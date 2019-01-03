@@ -30,7 +30,6 @@ used up 用尽,用完
 > the money was soon used up
 钱很快就用光了
 
-
 ----
 # used *
 
@@ -144,9 +143,10 @@ used syringes 用过的注射器
 
 
 * infinitive 动词不定式,原形动词,原形的
-
 * present participle 现在分词
 * past participle 过去分词
+* Possessive Pronouns 物主代词
+* 形容词性物主代词和名词性物主代词
 
 #### tense 时态
 
@@ -182,7 +182,6 @@ used syringes 用过的注射器
 
 1. active voice 主动语态
 1. passive voice 被动语态
-
 
 ---
 

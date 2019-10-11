@@ -303,3 +303,47 @@ nothing作代码,名词,和副词
 * many 很多,修饰可数名词
 * much很多,修饰不可数名词
 * some一些,修饰可数或不可数名词(any用在疑问句和否定句)
+
+## 现在分词和现在进行式
+
+这两个是不同的概念!
+
+**现在进行时**需要有be动词,是时态,表示某物正在做什么,强调正在做:
+
+She is looking for her dress.   
+We are moving to a new house.
+
+> is looking/are moving是 现在进行时
+
+**现在分词**作形容词用,例子 :   
+The news is disturbing.disturbing 
+
+## either和neither
+
+#### neither: 一般情况下,指两者都不
+
+I don't like him — neither do I
+
+I don't know — me neither
+
+neither is suitable
+两个都不合适
+
+neither of them can drive
+他们两个都不会开车
+
+#### either: 一般情况下,指两者中任意一个
+
+take either road
+两条路随便走哪一条
+
+which book do you want? — either
+
+I can't sleep — I can't, either
+我睡不着──我也睡不着
+
+there's no answer to that question either
+那个问题也没有答案
+
+
+> 但作为副词使用的时候,两个单词的意思差不都,都表示`也不`

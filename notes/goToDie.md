@@ -65,3 +65,5 @@ go fishing, go swimming...等中的-ing形式的属性在语法界颇有争议�
 > that, those,these,this,it,one
 
 ## 不及物动词后是不能跟不定式的.
+
+### 一个句子中只有一个谓语动词

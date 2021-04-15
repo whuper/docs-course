@@ -211,13 +211,22 @@ on the road,无所谓特指不特指,习惯用语.就像词组by the way似地,�
 
 ---
 
+### my way 和 last night为什么能做副词从句
+
+I dit it my way , last night , go this way
+
+### 同位语是简化后的形容词从句所留下的补语
+
+which 后面的名词没有严格的界限,可以复数也可以单数（英语四级翻译 P73）
+
+
 ### 关于主语从句 
 
 	It is critical that ...
 	
 这是一种形容词性从句(定语从句)吗?
 
-答: 不是
+答: 不是，是`名词性从句`作主语的一种变形
 
 * **同位语从句**的变形?
 * 名词性从句作主语?
@@ -289,16 +298,32 @@ on the road,无所谓特指不特指,习惯用语.就像词组by the way似地,�
 
 * 比较复杂的分数如：24／789，多读作 twenty four over seven hundred and eighty nine。
 
+
+
+
+　　
 ### 百分数
 
 百分数由percent表示,百分号％读作 percent,应用时常与by连用.
 
 * `0．68％` → zero point six eight percent
-* `6％` →s ix percent 
+* `6％` →six percent 
 * `369％` → three hundred and sixty nine percent
 
 The output of steel went up by 20 percent．钢产量增长20％.  
 The price of cotton was reduced by 20 percent．棉花的价格下降了20％.
+
+### 英语中百分数的用法
+
+##### 百分数由“基数词+percent”构成。
+
+
+　　With production up by 60 percent, the company has had another excellent year.   
+　　因为产量提高了60%，所以公司那年又取得了很好的效益。
+
+　　About 60 percent of the workers in this company are young people.   
+　　这个公司约60%的工人是年轻人。
+
 
 ### 打折
 
@@ -355,7 +380,23 @@ The price of cotton was reduced by 20 percent．棉花的价格下降了20％.
   in the early 1920's 在二十世纪二十年代早期   
   in the mid-1950's 在二十世纪五十年代中期 
   
-  
+## 方位的表示
+
+
+#### 英语中的方位名词：
+
+* 东方：East 
+* 西方：West 
+* 北方：North 
+* 南方：South 
+* 东北方：Northeast 
+* 西北方：Northwest 
+* 东南方：Southeast 
+* 西南方：Southwest
+
+
+
+
 ##  be + of的用法
 
 be+of+名词,代词
@@ -449,3 +490,6 @@ from his employers for the loss of his right arm while at work．他为在工作
 > His new book was a great success．他的新书获得巨大成功.  
 > He has had three successes and one failure．他曾经取得三次成功,一次失败.  
 
+## 助动词
+
+助动词主要分为两种，基本助动词（do、have和be）、情态助动词（may、might、can、could、must、will、would、**ought to**、dare、shall、should、need、**used to**、had better）。

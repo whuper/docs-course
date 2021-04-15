@@ -60,6 +60,8 @@ go fishing, go swimming...等中的-ing形式的属性在语法界颇有争议�
 
 > 比如, turn it off 不能用 turn off it
 
+**其实上面的说法有误**
+
 常用的指示代词 
 
 > that, those,these,this,it,one

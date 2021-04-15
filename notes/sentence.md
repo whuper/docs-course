@@ -132,3 +132,8 @@ situations后面跟了一个定语从句来对其进行解释。
 > 这是个被动句，created 为过去分词作表语，equal 为形容词作主语补足语，是对主语的补充zhi说明，表示人生下来的一种状态，主语补足语，即被动语态中的宾语补足语。  
 > 这句话改为主动语态为：`God create all men equal. `  
 > equal为宾补，被动以后就成了主语补足语。
+
+
+## 表现出浓郁的乡土气息
+
+show a strong rural flavor !(英语四级翻译，P69)

@@ -55,6 +55,18 @@ he didn't use to smoke
 
 #### used to 与 ought to 结构类似?(接不定式符号to,用作情态动词)
 
+
+> be used to do 被用来做某事
+
+
+### 情态动词四大分类
+
+1. 只做情态动词:`may, might, must…`
+1. 可做情态动词又可做实义动词：如：`need, dare, can...`
+1. 具有情态动词特征：`have(had,has) to,used to, ought to`
+1. 可做情态动词又可作助动词：如：`shall(should),will(would)`
+
+
 ## B. predicative  adjective (表语形容词)
 
 **1. predicative(表语形容词) 习惯的**
@@ -328,3 +340,35 @@ This tree was planted by my grandfather. 这棵树是我祖父种的。
 1. 介词
 1. 不定助词
 
+
+### people是可数名词还是不可数名词
+
+集体名词, **可数的**
+
+* 当它表示“人”的时候单复数同型people
+* 当它表示“民族”的意思时复数是peoples
+
+
+### 单词 To
+
+A. preposition (介词)
+
+
+B. infinitive(动词不定式) particle(颗粒)  不定助词
+
+
+> much
+> 
+> A.adjective
+> (comparative form more, superlative form most) 很多的 
+> 
+> 
+> many 
+> A.adjective
+> (comparative form more, superlative form most) 许多的
+> 
+> many修饰或代替可数名词
+> 
+> some修饰可数和不可数名词
+> 
+> Your salary is twice that of mine.

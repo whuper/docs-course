@@ -1,6 +1,6 @@
 ### everyone和every one和individual
 
-everyone是一个词，只用来指人，等于everybody，在它后面不能跟介词of 
+everyone是一个词(代词)，只用来指人，等于everybody，在它后面不能跟介词of 
 
 every one是两个词，既可用来指人，也可用来指物，等于each one，**后面可跟介词of**。
 
@@ -166,7 +166,7 @@ none指人/物 nothing指物。
 
 none作代词和副词
 
-nothing作代码,名词,和副词
+nothing作代词,名词,和副词
 
 代词前不加限定词
 
@@ -304,7 +304,7 @@ nothing作代码,名词,和副词
 * much很多,修饰不可数名词
 * some一些,修饰可数或不可数名词(any用在疑问句和否定句)
 
-## 现在分词和现在进行式
+## 现在分词和现在进行时
 
 这两个是不同的概念!
 
@@ -316,7 +316,11 @@ We are moving to a new house.
 > is looking/are moving是 现在进行时
 
 **现在分词**作形容词用,例子 :   
-The news is disturbing.disturbing 
+The news is disturbing.
+
+> 以上的说法有些片面, disturbing这个现在分词和interesting,disgusting一样,通常作形容词用,并不代表`所有现在分词`都作形容词用
+
+实际上,现在分词是是现在进行时的一部分
 
 ## either和neither
 

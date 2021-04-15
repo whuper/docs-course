@@ -123,3 +123,7 @@ Let me show you **something** **that** you should do.
 
 
 ### 为什么不能用 turn off it
+
+此时的off是副词,语法上行不通 ??
+
+> 英语语法规定的，it是代词，只能放在turn 和off 之间，在这个词组中，off后面跟名词作宾语，不能跟代词。

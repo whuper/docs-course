@@ -493,3 +493,35 @@ from his employers for the loss of his right arm while at work．他为在工作
 ## 助动词
 
 助动词主要分为两种，基本助动词（do、have和be）、情态助动词（may、might、can、could、must、will、would、**ought to**、dare、shall、should、need、**used to**、had better）。
+
+---
+
+## 英语句子中 被动语态和现在进行时一样，是主谓结构
+
+> 2021-05-16
+
+Those cars(主语) are made (谓语)in Shanghai (地点状语)with the help of German technology(状语)
+
+### 被动句的结构是主谓结构。
+the workers build a house. 
+主语 the workers 谓语 build 宾语 a house
+
+A house is built (by the workers). 
+主语 a house 谓语 is built (补语 by the workers)
+被动语态中，谓语的结构就是 be done，这与主系表没关系。
+
+### 只有主谓，没有宾，被动语态里的be done 合起来是谓语
+
+现在分词
+
+主谓结构,be doing可以整体看作谓语
+
+### 现在进行时的被动.
+The cinema is being built now.
+
+电影院正在被建中.
+
+### 完成时的进行时.
+We have been waiting for you since we had lunch.
+
+我们从吃完午饭一直在等你.

@@ -127,3 +127,11 @@ Let me show you **something** **that** you should do.
 此时的off是副词,语法上行不通 ??
 
 > 英语语法规定的，it是代词，只能放在turn 和off 之间，在这个词组中，off后面跟名词作宾语，不能跟代词。
+
+
+### although可与still连用吗
+
+能连用，although和but不能连用
+
+although意思相当于though(尽管，虽然)，用来引导让步状语从句。它所引导的从句不能与并列连词but，and，so等连用，但可以和yet，still等词连用。
+

@@ -137,3 +137,166 @@ situations后面跟了一个定语从句来对其进行解释。
 ## 表现出浓郁的乡土气息
 
 show a strong rural flavor !(英语四级翻译，P69)
+
+---
+
+
+		1.随着经济的繁荣with the booming of the economy
+
+		2.随着人民生活水平的显著提高with the remarkable improvement of people's living standard
+
+		3.先进的科学技术advanced science and technology
+
+		4.为我们日常生活增添了情趣add much spice /flavor to our daily life
+
+		5.人们普遍认为It is commonly believed that...
+
+		6.我同意前者(后者)观点I give my vote to the former / latter opinion.
+
+		7.引起了广泛的公众关注sth. has aroused wide public concern. sth has drawn great public attention.
+
+		8.不可否认It is undeniable that...
+
+		9.热烈的讨论/争论a heated discussion / debate
+
+		10.有争议性的问题a controversial issue
+
+		11.反映了社会进步的mirror the social progress /advance
+
+		12.增进相互了解enhance / promote mutual understanding
+
+		13.充分利用make full use of / take advantage of
+
+		14.承受更大的工作压力suffer from heavier work pressure
+
+		15.保障社会稳定和繁荣guarantee the stability and prosperity of our society
+
+		16.更多地强调put more emphasis on...
+
+		17.适应社会发展adapt oneself to the social development
+
+		18.实现梦想realize one's dream
+
+		19.主要理由列举如下The main / leading reasons are listed as follows:
+
+		20.我们还有很长的路要走 We still have a long way to go.
+
+		21.就我而言/就个人而言As far as I am concerned, Personally,
+
+		22.有充分的理由支持be supported by sound reasons
+
+		23.双方的论点argument on both sides
+
+		24.发挥日益重要作用play an increasingly important role in...
+
+		25. .对..必不可少be indispensable to ...
+
+		26.正如谚语所说As the proverb goes:
+
+		27.对产生有利/不利的影响exert positive / negative effects on...
+
+		28.利远远大于弊The advantages far outweigh the disadvantages.
+
+		29.导致，引起lead to/ give rise to / contribute to / result in
+
+		30.复杂的社会现象a complicated social phenomenon
+
+		31.身心两方面both physically and mentally
+
+		32.有直接/间接关系be directly / indirectly related to...
+
+		33.导致很多问题give rise to / lead to / spell various problems
+
+		34.可以替代think的词believe, claim, maintain,argue, insist, hold the opinion / belief / view that
+
+		35.缓解压力/减轻负担relieve stress / burden
+
+		36.优先考虑/发展.. give (top) priority to sth.
+
+		37. ...比较compared with../ in comparison with
+
+		38.可降解的/可分解的材料degradable /decomposable material
+
+		39.代替replace / substitute / take the place of
+
+		40.提供就业机会offer job opportunities
+
+		41.责任感/成就感sense of responsibility /achievement
+
+		42.竞争与合作精神sense of competition and cooperation
+
+		43.开阔眼界widen one's horizon broaden one's vision
+
+		44.学习知识和技能acquire knowledge and skills
+
+		45.经济/心理负担financial burden /psychological burden
+
+		46.考虑到诸多因素take many factors into consideration
+
+		47.从另一一个角度from another perspective
+
+		48.做出共同努力make joint efforts
+
+		49.对..有益be beneficial to / be conducive to....
+
+		50.为社会做贡献make contributions to the society
+
+		51.打下坚实的基础lay a solid foundation for..
+
+		52.综合素质comprehensive quality
+
+		53.致力于/投身于be committed /devoted to...
+
+		54.应当承认Admittedly,
+
+		55.不可推卸的义务unshakable duty
+
+		56.满足需求satisfy / meet the needs of...
+
+		57.可靠的信息源a reliable source of information
+
+		58.宝贵的自然资源valuable natural resources
+
+		59.因特网the Internet (一定要用冠词，字母I大写)
+
+		60.方便快捷convenient and efficient
+
+		61.在人类生活的方方面面in all aspects of human life
+
+		62.环保的材料environmentally friendly materials
+
+		63.社会进步的体现a symbol of society progress
+
+		64.大大方便了人们的生活sth has greatly facilitated people's lives.
+
+		65.对这一问题持有不同态度hold different attitudes towards this issue
+
+		66.在一定程度上to some extent
+
+		67.理论和实践相结合integrate theory with practice
+
+		68. 必然趋势an irresistible trend of...
+
+		69.日益激烈的社会竞争the increasingly keen social competition
+
+		70.眼前利益immediate interest /short-term interest
+
+		71.长远利益long- term interest
+
+		72. ..有其自身的优缺点... has its own merits and demerits / pros and cons
+
+		73. .对..有害do harm to / be harmful to /be detrimental to
+
+		74.交流思想/情感/信息exchange ideas /emotions / information
+
+		75.跟上..的最新发展keep pace with /keep abreast with the latest development of...
+
+		76. ...的健康发展the healthy development of....
+
+		77.重视attach great importance to...
+
+		78.社会地位social status
+
+		79.把时间和精力放在...上focus one's time and energy on...
+
+		80.扩大知识面expand one's scope of knowledge

@@ -119,14 +119,17 @@ tags:
 
 > We all like English
 
-4、交通工具之后不用冠词，
+4、交通工具之前不用冠词，
 
 > 如by bus/plain/train/air/ boat/ ship/bike
 
 > Everyday I go to school by bus.   Did you come back by plane or by train?
 
 5、表泛指一类或一般概念不用冠词：
-> Horses are useful animals.    Failure is the mother of success.  He is fond of music.   
+
+> Horses are useful animals.    
+> Failure is the mother of success.  
+> He is fond of music.   
 > Snow was failing. 正在下雪。
 > Children get a better education today than at any time in the past. 现今孩子们受的教育比过去任何时候都好。
 > Man is a rational animal. 人是理性的动物。  

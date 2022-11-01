@@ -59,6 +59,26 @@ he didn't use to smoke
 > be used to do 被用来做某事
 
 
+
+#### 半情态动词used to用法归纳
+
+1.used to的意思是“过去经常”，其中的to是不定式符号，不是介词，所以其后接动词原形(不接动名词)。
+
+2.used to作为情态动词，可直接在used后加not构成否定式，直接将used置于句首构成疑问式，但与一般的情态动词不同的，它也可像普通动词那样借助助动词did构成否定式和疑问式。
+
+
+##### used to 与 be used to的用法比较
+
+(1) used to 意为“过去经常”，其中的 to 是不定式符号，后接动词原形。
+
+(2) be used to 意为“习惯于”，其中的to是介词，后接动词要用动名词。
+
+注：① 若要强调从不习惯到习惯的过程，可用 get, become 等代替动词 be。
+
+② be used to 有时可能是动词 use 的被动语态结构 (此时意为“被用来”，其中的 to 为不定式符号，其后要接动词原形)。
+
+> http://yy.ychedu.com/YYJA/GYJA/609013.html
+
 ### 情态动词四大分类
 
 1. 只做情态动词:`may, might, must…`
@@ -69,9 +89,9 @@ he didn't use to smoke
 
 ## B. predicative  adjective (表语形容词)
 
-**1. predicative(表语形容词) 习惯的**
+### 1. predicative(表语形容词) 习惯的
 
-**to be or get used to [somebody]/[something];
+to be or get used to [somebody]/[something];
 习惯某人/某事物**
 
 you'll get used to it
@@ -366,9 +386,47 @@ B. infinitive(动词不定式) particle(颗粒)  不定助词
 > many 
 > A.adjective
 > (comparative form more, superlative form most) 许多的
-> 
+
 > many修饰或代替可数名词
 > 
 > some修饰可数和不可数名词
 > 
 > Your salary is twice that of mine.
+
+### virtual
+
+virtual有两个看似相互矛盾的词义，一是“实际的”，二是“虚拟的”，其实这两个词义并不互相矛盾。
+
+virtual的词义“实际的”，其实是“实际上的，事实上的”。所谓“实际上的， 事实上的”，就是“还没有正式的名分，但事实上已经是了”。
+
+### individual
+
+Every individual can love many different people.
+
+## wish后面用动词原形吗
+
+不可以,其用法是：wish to do sth 或者wish sb to do sth.
+
+---
+
+1、wish作为及物动词,可接名词或代词作宾语.
+
+例句：Do you wish a pen or a book?
+
+你要的是钢笔还是书?
+
+2、wish能接双宾语表示祝愿.
+
+例句：I wish you success.我祝你成功.
+
+3、wish能接复合宾语.
+
+例句：I wish you to go with me.
+
+### 虚拟语气wish三种时态
+
+1、表示对现在情况的虚拟，wish+主语+动词过去式；
+
+2、表示对过去情况的虚拟，wish+主语+had+过去分词；
+
+3、表示对将来情况的虚拟，wish+主语+would+动词原形。

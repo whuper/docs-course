@@ -351,3 +351,73 @@ there's no answer to that question either
 
 
 > 但作为副词使用的时候,两个单词的意思差不都,都表示`也不`
+
+
+
+## could 与 can
+
+could是can的过去式，但是有时候could也可以表示**语气委婉**， 与时态无关！
+
+## might 与 may
+
+might 是 may的过去式
+
+may和might所表达的语气不同，may所表达的可能性比might要更大。二者都可表示推测，may通常用于**肯定或否定**陈述句，而might则用于肯定句，否定句或疑问句。
+
+## would 与 will
+
+will和would都可用于表示推测——will用于谈论现在；would用于谈论过去，但也可用于谈论现在，只是语气比较委婉、比较不确定。
+
+如： 
+
+		He will be waiting downstairs now. 他现在应该在楼下等吧! 
+		You’ll be Dr. Livingston, I presume? 我猜您就是李温斯顿博士吧? 
+		You wouldn’t tell anyone, would you? 你不会告诉别人的，对吧? 
+		That would be the watch you are looking for. 那大概是你在寻找的手表吧。
+
+will和would均可用于征求意见或提出请求，此时的would并不表示过去，而是为了使语气更委婉。
+
+would有时用于提出想法，通常与like, love, hate, prefer, be glad, be happy等连用。
+
+如： 
+
+		I would like to make a suggestion. 我想提一个建议。
+		I’d love to have a room of my own. 我想有一个自己的房间。
+
+## to作为不定式和介词的区别
+
+to作为不定式时候，后面的动词用原形
+而作为介词时候，后面的动词用ing形式。
+
+主语 + 系动词 + 表语，这种结构后面的to是介词，后面动词用ing形式
+
+如:
+
+		 be or get used to doing sth;
+
+
+## begin to do和begin doing的区别
+
+begin to do sth是开始打算要做某事，是指事情还未做，准备开始做；begin doing sth 是指开始做某事，表示动作正在进行。
+
+
+
+### below, beneath 和 under 的用法区别
+
+below, beneath 和 under 的意思很相近，那它们有什么区别呢？总的来说 under 词意最丰富也最常用，beneath 最正式且不用于非正式的谈话中，below 较普通。
+
+一、below, beneath 和 under 三者都可以用来指示一个比较低的位置，例如：
+
+The shelf was placed below the staircase.
+
+架子放在楼梯下面。
+
+The metro station is right beneath the airport.
+
+地铁站就在机场的正下方。
+
+The book was found under the bed.
+
+这本书是在床底下找到的。
+
+> https://baijiahao.baidu.com/s?id=1670345377832513171&wfr=spider&for=pc

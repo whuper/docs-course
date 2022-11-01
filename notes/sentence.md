@@ -138,6 +138,10 @@ situations后面跟了一个定语从句来对其进行解释。
 
 show a strong rural flavor !(英语四级翻译，P69)
 
+
+Social structures are not discrete objects; they overlap and interweave。
+
+
 ---
 
 
@@ -300,3 +304,24 @@ show a strong rural flavor !(英语四级翻译，P69)
 		79.把时间和精力放在...上focus one's time and energy on...
 
 		80.扩大知识面expand one's scope of knowledge
+
+---
+
+Please tell me that it's a mistake to fall in love with you
+
+
+He poked his finger into the hole. 
+
+---
+
+He poked his finger into the hole。
+
+---
+
+swallows skimming the surface of the lake。
+掠过湖面的燕子
+
+---
+
+I don’t want to be associated with this。
+

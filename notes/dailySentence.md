@@ -19,3 +19,6 @@
 
 
 ### We do not attract what we want,but what we are.
+
+## Statsitic was born in the gambling house.
+

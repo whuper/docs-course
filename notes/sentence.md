@@ -325,3 +325,6 @@ swallows skimming the surface of the lake。
 
 I don’t want to be associated with this。
 
+## 达尔文的进化论观点
+
+It is not the strongest of the species that survive, but the one most responsive to change.
